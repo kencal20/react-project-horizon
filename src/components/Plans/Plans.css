@@ -1,0 +1,12 @@
+
+        .thumbnail-content{
+            margin-top: 23px;
+            }
+    
+            .thumbnail-content h2{
+            text-align : center;
+            }
+            .thumbnail-content img{
+            height: 13rem;  
+            width: 100%;  
+            }
